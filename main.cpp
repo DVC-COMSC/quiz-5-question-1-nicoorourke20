@@ -1,9 +1,9 @@
 #include    <iostream>
 using namespace std;
 
-int main()
-{
-   
-   /* Complete your code */
+int main(){
+  int n;
+    cout << "Enter the number of rows: ";
+    cin >> n;
   
 }
