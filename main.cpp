@@ -6,4 +6,7 @@ int main(){
     cout << "Enter the number of rows: ";
     cin >> n;
      for (int i = 1; i <= n; ++i) {
+        char letter = 'A';
+        for (int j = 1; j <= i; ++j) {
+          
 }
